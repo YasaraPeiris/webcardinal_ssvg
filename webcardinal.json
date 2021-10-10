@@ -1,0 +1,14 @@
+{
+  "pagesPathname": "pages",
+  "pagesFallback": {
+    "name": "Home"
+  },
+  "translations": false,
+  "pages": [
+    {
+      "path": "/",
+      "name": "Home",
+      "src": "home.html"
+    }
+  ]
+}
